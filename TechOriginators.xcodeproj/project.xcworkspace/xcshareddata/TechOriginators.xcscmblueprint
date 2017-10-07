@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "71A56D964E174F551F04CAC9E28EF1F272458F65",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71A56D964E174F551F04CAC9E28EF1F272458F65" : 9223372036854775807,
+    "F4AE7C63E1BD458F2EEB811B9A67DFB460355341" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2FBC3D1-D26A-4347-A715-B701D2CBEFAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71A56D964E174F551F04CAC9E28EF1F272458F65" : "TechOriginators\/",
+    "F4AE7C63E1BD458F2EEB811B9A67DFB460355341" : "..\/Downloads\/Capstone"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TechOriginators",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TechOriginators.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/junejag\/Capstone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71A56D964E174F551F04CAC9E28EF1F272458F65"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/junejag\/TechOriginators",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4AE7C63E1BD458F2EEB811B9A67DFB460355341"
+    }
+  ]
+}
