@@ -119,7 +119,6 @@
 				TargetAttributes = {
 					AE5E18601F893F3200376FB3 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 225336JC8G;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -289,7 +288,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 225336JC8G;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = TechOriginators/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.prog39856.TechOriginators;
@@ -302,7 +301,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 225336JC8G;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = TechOriginators/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.prog39856.TechOriginators;
