@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ContactListViewController: UIViewController , UITableViewDataSource, UITableViewDelegate {
+/*class ContactListViewController: UIViewController , UITableViewDataSource, UITableViewDelegate {
 
     @IBOutlet var contactsTableView : UITableView! 
     var testVar: String
@@ -63,4 +63,4 @@ class ContactListViewController: UIViewController , UITableViewDataSource, UITab
     }
     */
 
-}
+}*/
