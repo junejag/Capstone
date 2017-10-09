@@ -11,9 +11,8 @@ import UIKit
 class ContactListViewController: UIViewController , UITableViewDataSource, UITableViewDelegate {
 
     @IBOutlet var contactsTableView : UITableView! 
-    
+    var testVar: String
     var  contacts : [Contact] = [] {
-    
         didSet{
             self.contactsTableView.reloadData()
         }
